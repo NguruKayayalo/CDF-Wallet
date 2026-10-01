@@ -1,0 +1,8 @@
+{
+  "name": "fc",
+  "description": "Le Franc Congolais (CDF) est un jeton numérique BEP-20 conçu pour moderniser les paiements en RDC. Rapide, sécurisé et évolutif, il vise à faciliter les transactions, soutenir l’inclusion financière et offrir une alternative innovante aux systèmes traditionnels. CDF ambitionne de devenir un acteur clé du Web3 congolais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
